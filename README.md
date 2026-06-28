@@ -7,35 +7,35 @@
 Welcome to my GitHub profile! I'm a **DevOps Engineer** with **4.5 years** of experience designing and operating cloud-native infrastructure on AWS — from provisioning multi-environment Terraform stacks to building resilient EKS clusters that survive Black Friday traffic spikes. I specialize in **CI/CD reliability, platform engineering, and AIOps**, bridging infrastructure automation with intelligent observability. Currently building an AI-powered ops agent using **Amazon Bedrock + EKS + Slack**, and open to Senior DevOps / SRE roles at large enterprises and MNCs.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BE%20Engineering-Sri%20Ramakrishna%20Engineering%20College-00FFCC?style=flat-square&labelColor=0A0A0A&color=00FFCC" />
+  <img src="https://img.shields.io/badge/BE%20Engineering-Sri%20Ramakrishna%20Engineering%20College-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e&logoColor=000000" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-00FFCC?style=flat-square&labelColor=0A0A0A&logo=googlemaps&logoColor=00FFCC" />
+  <img src="https://img.shields.io/badge/📍%20Location-Chennai%2C%20India-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Experience-4.5%20Years-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Experience-4.5%20Years-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Domain-Cloud%20Infrastructure%20%7C%20Platform%20Eng-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Domain-Cloud%20Infrastructure%20%7C%20Platform%20Eng-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ribi-j-09142417b/">
-    <img src="https://img.shields.io/badge/LinkedIn-ribi--j-00FFCC?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=00FFCC&color=00FFCC" />
+    <img src="https://img.shields.io/badge/LinkedIn-ribi--j-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFCC&labelColor=0A0A0A&color=00FFCC" />
   </a>
   &nbsp;
   <a href="https://github.com/ribijoseph">
-    <img src="https://img.shields.io/badge/GitHub-ribijoseph-00FFCC?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=00FFCC&color=00FFCC" />
+    <img src="https://img.shields.io/badge/GitHub-ribijoseph-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=0A0A0A&color=00FFCC" />
   </a>
   &nbsp;
   <a href="mailto:ribijoseph@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ribijoseph%40gmail.com-00FFCC?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=00FFCC&color=00FFCC" />
+    <img src="https://img.shields.io/badge/Email-ribijoseph%40gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0A0A0A&color=00FFCC" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ribijoseph&style=flat-square&color=00FFCC&label=PROFILE+VIEWS&labelColor=0A0A0A" />
+  <img src="https://komarev.com/ghpvc/?username=ribijoseph&style=flat-square&color=1a1a2e&label=PROFILE+VIEWS&labelColor=00FFCC" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/ribijoseph?style=flat-square&color=00FFCC&label=FOLLOWERS&labelColor=0A0A0A&logo=github&logoColor=00FFCC" />
+  <img src="https://img.shields.io/github/followers/ribijoseph?style=flat-square&color=1a1a2e&label=FOLLOWERS&labelColor=00FFCC&logo=github&logoColor=0A0A0A" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/ribijoseph?style=flat-square&color=00FFCC&label=STARS&labelColor=0A0A0A&logo=github&logoColor=00FFCC" />
+  <img src="https://img.shields.io/github/stars/ribijoseph?style=flat-square&color=1a1a2e&label=STARS&labelColor=00FFCC&logo=github&logoColor=0A0A0A" />
 </p>
 
 ---
