@@ -40,12 +40,9 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with **4.5 years** of ex
 
 ---
 
-## `$ cat about_me.sh`
-
-> DevOps Engineer with **4.5 years** of experience designing and operating cloud-native infrastructure on AWS — from provisioning multi-environment Terraform stacks to building resilient EKS clusters that survive Black Friday traffic spikes. I specialize in **CI/CD reliability, platform engineering, and AIOps**, bridging infrastructure automation with intelligent observability. Currently building an AI-powered ops agent using Amazon Bedrock + EKS, and open to Senior DevOps / SRE roles at large enterprises and MNCs.
+### 🧑‍💻 About Me
 
 ```bash
-#!/bin/bash
 ROLE="DevOps Engineer"
 EXPERIENCE="4.5 years"
 CURRENT="Redington (Mar 2026 – Present)"
@@ -59,7 +56,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ ls -la tech_stack/`
+### 🛠️ Tech Stack
 
 **Cloud & Infrastructure**
 
@@ -87,7 +84,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat specializations.conf`
+### 🎯 Specializations
 
 <p align="left">
   <img src="https://img.shields.io/badge/Platform%20Engineering-EKS%20%7C%20Helm%20%7C%20ArgoCD-00FFCC?style=flat-square&labelColor=0A0A0A" />
@@ -100,20 +97,20 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat expertise_matrix.md`
+### 📊 Expertise Matrix
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|---|---|
-| **AWS Cloud** | ████████░░ Expert | EC2, EKS, Lambda, ECS, S3, IAM, VPC, EventBridge, SNS/SQS, ECR, CloudWatch |
-| **Terraform / IaC** | ████████░░ Expert | Multi-env state management, modules, Sentinel policies, 6 environment rollouts |
-| **Kubernetes / EKS** | ███████░░░ Advanced | Helm charts, ArgoCD GitOps, OOM tuning, zero-downtime upgrades, EKS Backup |
-| **CI/CD Pipelines** | ████████░░ Expert | Jenkins (org folders, shared libs), GitHub Actions (8 pipelines), Bitbucket |
-| **Observability** | ██████░░░░ Proficient | New Relic dashboards (EKS, Lambda, Snowflake, Astronomer), CloudWatch metrics |
-| **Python / boto3** | ██████░░░░ Proficient | AWS automation scripts, Lambda functions, IAM auditing, cost optimization |
+| **AWS Cloud** | ⭐ Expert | EC2, EKS, Lambda, ECS, S3, IAM, VPC, EventBridge, SNS/SQS, ECR, CloudWatch |
+| **Terraform / IaC** | ⭐ Expert | Multi-env state management, modules, Sentinel policies, 6 environment rollouts |
+| **Kubernetes / EKS** | 🔷 Advanced | Helm charts, ArgoCD GitOps, OOM tuning, zero-downtime upgrades, EKS Backup |
+| **CI/CD Pipelines** | ⭐ Expert | Jenkins (org folders, shared libs), GitHub Actions (8 pipelines), Bitbucket |
+| **Observability** | 🔹 Proficient | New Relic dashboards (EKS, Lambda, Snowflake, Astronomer), CloudWatch metrics |
+| **Python / boto3** | 🔹 Proficient | AWS automation scripts, Lambda functions, IAM auditing, cost optimization |
 
 ---
 
-## `$ cat projects/featured.log`
+### 🚀 Featured Projects
 
 <details open>
 <summary><b>🤖 AIOps Agent — EKS Monitoring + Amazon Bedrock + Slack</b></summary>
@@ -183,9 +180,9 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat experience.log`
+### 💼 Professional Experience
 
-### 🏢 Redington · DevOps Engineer · Mar 2026 – Present
+**🏢 Redington · DevOps Engineer · Mar 2026 – Present**
 
 <p>
   <img src="https://img.shields.io/badge/AWS-00FFCC?style=flat-square&labelColor=0A0A0A" />
@@ -203,7 +200,7 @@ LOCATION="Chennai, India"
 
 ---
 
-### 🏢 Tata Consultancy Services · DevOps Engineer · 2022 – Mar 2026
+**🏢 Tata Consultancy Services · DevOps Engineer · 2022 – Mar 2026**
 
 <p>
   <img src="https://img.shields.io/badge/Terraform-00FFCC?style=flat-square&labelColor=0A0A0A" />
@@ -225,7 +222,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat achievements.md`
+### 🏆 Key Achievements
 
 <div align="center">
 
@@ -243,7 +240,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat education.conf`
+### 🎓 Education
 
 <p align="left">
   <img src="https://img.shields.io/badge/B.E.%20Engineering-Sri%20Ramakrishna%20Engineering%20College-00FFCC?style=for-the-badge&labelColor=0A0A0A" />
@@ -251,7 +248,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat certifications.conf`
+### 📜 Certifications
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-00FFCC?style=for-the-badge&logo=amazonaws&logoColor=0A0A0A&labelColor=00FFCC&color=00FFCC" />
@@ -261,10 +258,10 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ ./github_stats.sh`
+### 📈 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ribijoseph&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=00FFCC&icon_color=00FFCC&text_color=CCCCCC&border_color=00FFCC&ring_color=00FFCC&hide_border=false&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ribijoseph&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=00FFCC&icon_color=00FFCC&text_color=CCCCCC&border_color=00FFCC&hide_border=false&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ribijoseph&theme=dark&background=0A0A0A&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC&sideLabels=00FFCC&dates=CCCCCC&border=00FFCC&stroke=00FFCC&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </p>
 
@@ -274,7 +271,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ ./trophies.sh`
+### 🏅 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ribijoseph&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
@@ -282,7 +279,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ ./activity_graph.sh`
+### 📅 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ribijoseph&bg_color=0A0A0A&color=00FFCC&line=00FFCC&point=FFFFFF&area=true&area_color=00FFCC&hide_border=false&border_color=00FFCC&title_color=00FFCC" />
@@ -290,7 +287,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ ./summary_cards.sh`
+### 📋 Summary Cards
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ribijoseph&theme=github_dark" width="100%" />
@@ -304,7 +301,7 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat snake.conf`
+### 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ribijoseph/ribijoseph/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -312,30 +309,27 @@ LOCATION="Chennai, India"
 
 ---
 
-## `$ cat current_focus.yaml`
+### 🔭 Currently Focused On
 
 ```yaml
-current_focus:
-  building:
-    - "AIOps Agent: EKS anomaly detection → Amazon Bedrock → Slack remediation"
-    - "Portfolio projects: ArgoCD GitOps patterns on EKS"
-  learning:
-    - "Amazon Bedrock Agents + Knowledge Bases"
-    - "OpenTelemetry observability on Kubernetes"
-    - "KCNA / KCSA Kubernetes certifications"
-  exploring:
-    - "Platform Engineering tooling: Backstage, Port"
-    - "AI-assisted incident response workflows"
-  open_to:
-    - "Senior DevOps Engineer"
-    - "Site Reliability Engineer (SRE)"
-    - "Platform Engineer"
-    - "Target companies: Cognizant · EY · Accenture · Large MNCs"
+building:
+  - "AIOps Agent: EKS anomaly detection → Amazon Bedrock → Slack remediation"
+  - "Portfolio projects: ArgoCD GitOps patterns on EKS"
+learning:
+  - "Amazon Bedrock Agents + Knowledge Bases"
+  - "OpenTelemetry observability on Kubernetes"
+  - "KCNA / KCSA Kubernetes certifications"
+exploring:
+  - "Platform Engineering tooling: Backstage, Port"
+  - "AI-assisted incident response workflows"
+open_to:
+  - "Senior DevOps Engineer | SRE | Platform Engineer @ MNCs"
+  - "Target companies: Cognizant · EY · Accenture · Large MNCs"
 ```
 
 ---
 
-## `$ ./connect.sh`
+### 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ribi-j-09142417b/">
