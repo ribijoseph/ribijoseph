@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a **DevOps Engineer** with **4.5 years** of ex
 
 📍 **Chennai, India** &nbsp;|&nbsp; 🎓 **B.E. — Sri Ramakrishna Engineering College** &nbsp;|&nbsp; 💼 **4.5 Years Experience**
 
-<img src="https://komarev.com/ghpvc/?username=ribijoseph&style=flat-square&color=00FFCC&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=ribijoseph&style=flat-square&color=1a1a2e&label=Profile+Views&labelColor=0A0A0A" />
 
 ---
 
@@ -65,12 +65,12 @@ LOCATION="Chennai, India"
 ### 🎯 Specializations
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Platform%20Engineering-EKS%20%7C%20Helm%20%7C%20ArgoCD-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform%20%7C%20Multi--env-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/CI%2FCD%20Reliability-Jenkins%20%7C%20GitHub%20Actions-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/AIOps-Bedrock%20%7C%20CloudWatch%20%7C%20Slack-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Observability-New%20Relic%20%7C%20CloudWatch-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/DevSecOps-Checkov%20%7C%20SonarQube%20%7C%20IAM-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Platform%20Engineering-EKS%20%7C%20Helm%20%7C%20ArgoCD-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform%20%7C%20Multi--env-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/CI%2FCD%20Reliability-Jenkins%20%7C%20GitHub%20Actions-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AIOps-Bedrock%20%7C%20CloudWatch%20%7C%20Slack-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Observability-New%20Relic%20%7C%20CloudWatch-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/DevSecOps-Checkov%20%7C%20SonarQube%20%7C%20IAM-1a1a2e?style=flat-square&labelColor=0A0A0A" />
 </p>
 
 ---
@@ -105,11 +105,11 @@ LOCATION="Chennai, India"
 | **Status** | 🟡 Active development |
 
 <p>
-  <img src="https://img.shields.io/badge/AWS_EKS-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Amazon_Bedrock-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Python%2Fboto3-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Slack_API-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/CloudWatch-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS_EKS-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Python%2Fboto3-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Slack_API-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/CloudWatch-1a1a2e?style=flat-square&labelColor=0A0A0A" />
 </p>
 </details>
 
@@ -128,11 +128,11 @@ LOCATION="Chennai, India"
 | **Highlights** | 8 GitHub Actions pipelines with Checkov security gates; 7 New Relic dashboards |
 
 <p>
-  <img src="https://img.shields.io/badge/Terraform-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/AWS_EKS-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Helm-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/New_Relic-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Terraform-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS_EKS-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Helm-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/New_Relic-1a1a2e?style=flat-square&labelColor=0A0A0A" />
 </p>
 </details>
 
@@ -150,9 +150,9 @@ LOCATION="Chennai, India"
 | **My Role** | Migration planning and execution |
 
 <p>
-  <img src="https://img.shields.io/badge/Astronomer-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Apache_Airflow-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/AWS-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Astronomer-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&labelColor=0A0A0A" />
 </p>
 </details>
 
@@ -163,12 +163,12 @@ LOCATION="Chennai, India"
 **🏢 Redington · DevOps Engineer · Mar 2026 – Present**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Jenkins-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/SonarQube-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Kubernetes%2FEKS-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/IAM_Identity_Center-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Jenkins-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Bitbucket_Pipelines-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/SonarQube-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Kubernetes%2FEKS-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/IAM_Identity_Center-1a1a2e?style=flat-square&labelColor=0A0A0A" />
 </p>
 
 - Migrated **4 Jenkins pipelines** to Bitbucket Pipelines, integrating SonarQube quality gates to enforce code coverage thresholds across all services
@@ -181,12 +181,12 @@ LOCATION="Chennai, India"
 **🏢 Tata Consultancy Services · DevOps Engineer · 2022 – Mar 2026**
 
 <p>
-  <img src="https://img.shields.io/badge/Terraform-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/AWS_EKS-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/New_Relic-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Python%2Fboto3-00FFCC?style=flat-square&labelColor=0A0A0A" />
-  <img src="https://img.shields.io/badge/Snowflake-00FFCC?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Terraform-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/AWS_EKS-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/New_Relic-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Python%2Fboto3-1a1a2e?style=flat-square&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/Snowflake-1a1a2e?style=flat-square&labelColor=0A0A0A" />
 </p>
 
 - Migrated infrastructure provisioning across **6 environments** using Terraform modules, cutting environment spin-up time from days to hours
@@ -221,7 +221,7 @@ LOCATION="Chennai, India"
 ### 🎓 Education
 
 <p align="left">
-  <img src="https://img.shields.io/badge/B.E.%20Engineering-Sri%20Ramakrishna%20Engineering%20College-00FFCC?style=for-the-badge&labelColor=0A0A0A" />
+  <img src="https://img.shields.io/badge/B.E.%20Engineering-Sri%20Ramakrishna%20Engineering%20College-1a1a2e?style=for-the-badge&labelColor=0A0A0A" />
 </p>
 
 ---
@@ -229,9 +229,9 @@ LOCATION="Chennai, India"
 ### 📜 Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-00FFCC?style=for-the-badge&logo=amazonaws&logoColor=0A0A0A&labelColor=00FFCC&color=00FFCC" />
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=00FFCC&labelColor=0A0A0A&color=1a1a2e" />
   &nbsp;
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20003-00FFCC?style=for-the-badge&logo=terraform&logoColor=0A0A0A&labelColor=00FFCC&color=00FFCC" />
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate%20003-1a1a2e?style=for-the-badge&logo=terraform&logoColor=00FFCC&labelColor=0A0A0A&color=1a1a2e" />
 </p>
 
 ---
