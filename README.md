@@ -6,37 +6,15 @@
 
 Welcome to my GitHub profile! I'm a **DevOps Engineer** with **4.5 years** of experience designing and operating cloud-native infrastructure on AWS — from provisioning multi-environment Terraform stacks to building resilient EKS clusters that survive Black Friday traffic spikes. I specialize in **CI/CD reliability, platform engineering, and AIOps**, bridging infrastructure automation with intelligent observability. Currently building an AI-powered ops agent using **Amazon Bedrock + EKS + Slack**, and open to Senior DevOps / SRE roles at large enterprises and MNCs.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BE%20Engineering-Sri%20Ramakrishna%20Engineering%20College-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e&logoColor=000000" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/📍%20Location-Chennai%2C%20India-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Experience-4.5%20Years-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Domain-Cloud%20Infrastructure%20%7C%20Platform%20Eng-000000?style=flat-square&labelColor=00FFCC&color=1a1a2e" />
-</p>
+<h3 align="left">🔗 Connect With Me</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ribi-j-09142417b/">
-    <img src="https://img.shields.io/badge/LinkedIn-ribi--j-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFCC&labelColor=0A0A0A&color=00FFCC" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ribijoseph">
-    <img src="https://img.shields.io/badge/GitHub-ribijoseph-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFCC&labelColor=0A0A0A&color=00FFCC" />
-  </a>
-  &nbsp;
-  <a href="mailto:ribijoseph@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ribijoseph%40gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFCC&labelColor=0A0A0A&color=00FFCC" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/ribi-j-09142417b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
+<a href="https://github.com/ribijoseph"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="github" width="40" height="40"/></a>
+<a href="mailto:ribijoseph@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" width="40" height="40"/></a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ribijoseph&style=flat-square&color=1a1a2e&label=PROFILE+VIEWS&labelColor=00FFCC" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/ribijoseph?style=flat-square&color=1a1a2e&label=FOLLOWERS&labelColor=00FFCC&logo=github&logoColor=0A0A0A" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/ribijoseph?style=flat-square&color=1a1a2e&label=STARS&labelColor=00FFCC&logo=github&logoColor=0A0A0A" />
-</p>
+📍 **Chennai, India** &nbsp;|&nbsp; 🎓 **B.E. — Sri Ramakrishna Engineering College** &nbsp;|&nbsp; 💼 **4.5 Years Experience**
+
+<img src="https://komarev.com/ghpvc/?username=ribijoseph&style=flat-square&color=00FFCC&label=Profile+Views" />
 
 ---
 
@@ -331,19 +309,9 @@ open_to:
 
 ### 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ribi-j-09142417b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00FFCC?style=for-the-badge&logo=linkedin&logoColor=0A0A0A&labelColor=00FFCC" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ribijoseph">
-    <img src="https://img.shields.io/badge/GitHub-Follow-00FFCC?style=for-the-badge&logo=github&logoColor=0A0A0A&labelColor=00FFCC" />
-  </a>
-  &nbsp;
-  <a href="mailto:ribijoseph@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-00FFCC?style=for-the-badge&logo=gmail&logoColor=0A0A0A&labelColor=00FFCC" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/ribi-j-09142417b/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin" width="40" height="40"/></a>
+<a href="https://github.com/ribijoseph"><img src="https://img.icons8.com/ios-glyphs/48/ffffff/github.png" alt="github" width="40" height="40"/></a>
+<a href="mailto:ribijoseph@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="email" width="40" height="40"/></a>
 
 <p align="center">
   <i>"Infrastructure should be invisible, resilient, and boring — the drama belongs in the product."</i>
