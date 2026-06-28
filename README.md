@@ -2,11 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0,10,10,100&height=120&section=header&text=Ribi%20Joseph&fontSize=52&fontColor=00FFCC&fontAlignY=55&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Platform%20Engineering&descAlignY=80&descColor=00FFCC&animation=fadeIn&stroke=00FFCC&strokeWidth=1" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=800&color=00FFCC&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%7C+4.5+yrs+%7C+Chennai%2C+India;%24+stack+%E2%86%92+AWS+%7C+Terraform+%7C+Kubernetes+%7C+Jenkins+%7C+ArgoCD;%24+building+%E2%86%92+AIOps+Agent+on+EKS+%2B+Bedrock+%2B+Slack;%24+certs+%E2%86%92+AWS+SAA+%7C+HashiCorp+Terraform+Associate+003;%24+open_to+%E2%86%92+Senior+DevOps+%2F+SRE+%40+MNCs" alt="Typing SVG" />
-  </a>
-</p>
+### Hi there 👋, I'm Ribi Joseph
+
+Welcome to my GitHub profile! I'm a **DevOps Engineer** with **4.5 years** of experience designing and operating cloud-native infrastructure on AWS — from provisioning multi-environment Terraform stacks to building resilient EKS clusters that survive Black Friday traffic spikes. I specialize in **CI/CD reliability, platform engineering, and AIOps**, bridging infrastructure automation with intelligent observability. Currently building an AI-powered ops agent using **Amazon Bedrock + EKS + Slack**, and open to Senior DevOps / SRE roles at large enterprises and MNCs.
 
 <p align="center">
   <img src="https://img.shields.io/badge/BE%20Engineering-Sri%20Ramakrishna%20Engineering%20College-00FFCC?style=flat-square&labelColor=0A0A0A&color=00FFCC" />
